@@ -1,7 +1,7 @@
 
 # OTP verification/login/forgot password
 
-The php and sqp files are in the branch OTP
+The php and sqp files are in the master branch
 
 This repo contains a demo site hosted on xampp to show the features:
 
